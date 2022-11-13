@@ -1,4 +1,4 @@
-def binary_search(searchlist, item):
+def search(searchlist, item):
 
     first = 0
     last = len(searchlist) - 1
